@@ -80,7 +80,3 @@ Alumno(nombre=Alan, apPat=Hernandez, apMat=Flores, numCuenta=321302740, edad=19,
 ### Requisitos
 
 Este proyecto solo requiere la biblioteca estándar de Java y se ejecuta desde la línea de comandos.
-
---- 
-
-Este formato en Markdown debería mostrarse correctamente en GitHub.
